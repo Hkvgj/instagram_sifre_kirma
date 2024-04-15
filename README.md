@@ -1,5 +1,5 @@
 Kullanım Komutları
-=
+eylül_atamissa=
 
 ```python
 	python instaBrute.py -f usernames.txt -d dictionary.txt
